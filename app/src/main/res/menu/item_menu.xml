@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group android:checkableBehavior="single">
+        <item
+            android:title="@string/txtCollage"
+            android:icon="@drawable/ic_baseline_circle_24"
+            android:id="@+id/txtCollageMenu"/>
+        <item android:title="@string/txt_squareFit"
+            android:icon="@drawable/ic_baseline_circle_24"
+            android:id="@+id/txtSquareMenu"/>
+        <item android:title="@string/txt_blurBackground"
+            android:icon="@drawable/ic_baseline_circle_24"
+            android:id="@+id/txtBlurMenu"/>
+</group>
+    <item android:title="@string/txt_lang" android:id="@+id/txtLangMenu"/>
+    <item android:title="@string/txt_rate" android:id="@+id/txtRateMenu"/>
+    <item android:title="@string/txt_share" android:id="@+id/txtShareMenu"/>
+    <item android:title="@string/txt_privacy" android:id="@+id/privacyMenu"/>
+</menu>

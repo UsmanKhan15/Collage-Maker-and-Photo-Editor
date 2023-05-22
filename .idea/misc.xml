@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/bg_btn.xml" value="0.171" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/bg_img.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/gradient_toolbar.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/ic_baseline_feedback_24.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/txt_bg.xml" value="0.2165" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/drawable/txt_bg_white.xml" value="0.178" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/collage_item_view.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/custom_single_image.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/dashboard_item_view.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/folder_item_view.xml" value="0.318359375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/fragment_collage_maker.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/fragment_dash_board.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/fragment_select_collage.xml" value="0.25" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/fragment_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/fragment_square_fit.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/layout/nav_header.xml" value="0.209375" />
+        <entry key="..\:/Android Development/CollageMaker/app/src/main/res/menu/item_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

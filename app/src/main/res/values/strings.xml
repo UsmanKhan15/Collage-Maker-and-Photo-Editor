@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CollageMaker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splashTxt">Lets Start Now</string>
+    <string name="Dashboard"><![CDATA[Collage Maker & Photo Editor]]></string>
+    <string name="txtCollage">Collage Maker</string>
+    <string name="txtCollageEdt">Collage Editor</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="txt_squareFit">Square Fit</string>
+    <string name="txt_blurBackground">Blur Background</string>
+    <string name="txt_lang">Language</string>
+    <string name="txt_rate">Rate Us</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_privacy">Privacy Policy</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_select">Select Photo</string>
+    <string name="txt_select_grid">Select Grid</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_grids">Grids</string>
+    <string name="txt_borders">Borders</string>
+    <string name="txt_images">Images</string>
+    <string name="txt_save">Save</string>
+    <string name="txtRatio">Ratio</string>
+    <string name="go_ahead">Go ahead</string>
+    <string name="sqaure_fit">Sqaure Fit</string>
+</resources>
